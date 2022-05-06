@@ -1,0 +1,21 @@
+body{
+    background-color:#FF4E28;
+}
+
+
+h1{
+    color:#fff;
+    display:flex;
+    justify-content: center;
+    font-size: 80px;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.display{
+    color: #fff;
+}
